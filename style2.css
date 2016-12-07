@@ -22,7 +22,8 @@ body {
 body {
   padding: 50px;
   background: rgba(255, 255, 204, 0.31);
-  background: #333 url("http://subtlepatterns.com/patterns/dirty_old_shirt.png");
+  //background: #333 url("http://subtlepatterns.com/patterns/dirty_old_shirt.png");
+  background: #333 url("https://subtlepatterns.com/patterns/dark_embroidery.png");
   -webkit-font-smoothing: antialiased;
 }
 
